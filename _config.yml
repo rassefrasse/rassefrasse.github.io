@@ -6,4 +6,6 @@ minimal_mistakes_skin: "neon"
 
 title: dev blog
 description: i build EE stuff
-author: rassefrasse
+
+author:
+  name:  rassefrasse
