@@ -1,5 +1,5 @@
 ---
 layout: home
-title: asdfhjkl
+title: my math's blog
 ---
-#  👋 Issa me 
+#  👋 
